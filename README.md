@@ -209,14 +209,3 @@ cd frontend
 npm run build
 npm run preview
 ```
-
-## Deployment
-
-This application can be deployed on various platforms:
-
-- Frontend: Vercel, Netlify, or any static hosting
-- Backend: Heroku, AWS, Digital Ocean, or any Node.js hosting
-
-## License
-
-ISC
